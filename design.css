@@ -1,0 +1,12 @@
+
+.logo{
+    
+    border: 2px solid black;
+    color: #dfd7d7;
+    padding: 5px 0 5px 35px;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    background-image: radial-gradient(#337ab7, #000000db);
+    
+}
+
